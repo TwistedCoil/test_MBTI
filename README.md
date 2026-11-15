@@ -49,14 +49,6 @@ Puedes comprobarlo revisando el código: es un solo archivo HTML con CSS y JavaS
 
 No necesita instalación ni conexión a internet.
 
-### Opción 2: publicarlo con GitHub Pages
-
-1. Sube `index.html` a la raíz del repositorio.
-2. En el repositorio, ve a **Settings → Pages**.
-3. En **Source**, elige **Deploy from a branch**, luego la rama `main` y la carpeta `/ (root)`.
-4. Guarda. En unos minutos quedará disponible en:
-   `https://<tu-usuario>.github.io/<nombre-del-repositorio>/`
-
 ---
 
 ## Estructura
